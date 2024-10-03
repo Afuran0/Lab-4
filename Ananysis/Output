@@ -1,1 +1,25 @@
+PS C:\Users\amede\Downloads> & C:/Users/amede/AppData/Local/Microsoft/WindowsApps/python3.12.exe "c:/Users/amede/Downloads/Lab 4.py"
+Original Dataset:
+     Date  Profit/Losses
+0  Jan-10        1088983
+1  Feb-10        -354534
+2  Mar-10         276622
+3  Apr-10        -728133
+4  May-10         852993
 
+Sorted Dataset using Selection Sort:
+     Date  Profit/Losses
+0  Apr-10        -728133
+1  Apr-11         837887
+2  Apr-12         589771
+3  Apr-13         542630
+4  Apr-14         292032
+
+Sorted Dataset using Insertion Sort:
+     Date  Profit/Losses
+0  Apr-10        -728133
+1  Apr-11         837887
+2  Apr-12         589771
+3  Apr-13         542630
+4  Apr-14         292032
+PS C:\Users\amede\Downloads> 
